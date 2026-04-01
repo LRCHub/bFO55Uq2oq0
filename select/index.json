@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Is It The Answer",
+  "base_artist": "Reality Club",
+  "createdAt": "2026-04-01T12:49:30.764152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Is It the Answer?",
+      "artist": "Reality Club",
+      "has_synced": true,
+      "path": "select/01_Is_It_the_Answer_Reality_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Is It the Answer?",
+      "artist": "Reality Club",
+      "has_synced": true,
+      "path": "select/02_Is_It_the_Answer_Reality_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Is It The Answer",
+      "artist": "Reality Club",
+      "has_synced": true,
+      "path": "select/03_Is_It_The_Answer_Reality_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Is It The Answer",
+      "artist": "Reality Club",
+      "has_synced": true,
+      "path": "select/04_Is_It_The_Answer_Reality_Club.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Single - Is It The Answer?",
+      "artist": "Reality Club",
+      "has_synced": true,
+      "path": "select/05_Single_-_Is_It_The_Answer_Reality_Club.lrc"
+    }
+  ]
+}
